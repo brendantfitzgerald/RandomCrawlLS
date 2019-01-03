@@ -2,7 +2,6 @@
 cd "~"
 while(1){$list = ls
 $list
-$levels = 0
 
 $directories = ls -dir
 
